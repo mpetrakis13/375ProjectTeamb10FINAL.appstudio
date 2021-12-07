@@ -31,5 +31,6 @@ btnPescetarianSelect.onclick=function(){
   ChangeForm(pescetarian)
 }
 
+console.log("test")
 
 
