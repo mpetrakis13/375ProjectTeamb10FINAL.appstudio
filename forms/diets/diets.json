@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnAtkinsSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnPaleoSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnKetoSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnVegetarianSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnMediterraneanSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnNoSugarSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnVeganSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "btnPescetarianSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "diets",
+        "Elements",
+        "lblDietsHeader.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "diets",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "diets.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

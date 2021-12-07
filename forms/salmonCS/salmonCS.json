@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "txtaCS.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "btnAddCS.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "rdoCS.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "btnRemoveCS.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "txtaGL.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "btnGS.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "salmonCS",
+        "Elements",
+        "btnGoToKeto2.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "salmonCS",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "salmonCS.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
