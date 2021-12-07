@@ -33,4 +33,3 @@ btnPescetarianSelect.onclick=function(){
 
 
 
-console.log(test)
